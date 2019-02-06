@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Saber theme
+Description=Modified Dark Mint theme by Josep Sayol
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/saber-plymouth
+ScriptFile=/usr/share/plymouth/themes/saber-plymouth/saber-plymouth.script
