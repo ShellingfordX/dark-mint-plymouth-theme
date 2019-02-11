@@ -1,6 +1,6 @@
 ## Saber theme
 
-*Saber theme* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
+*Saber theme* is a theme for Plymouth, the boot splash tool for Linux. 
 
 [![Screenshot](https://i.imgur.com/XV5aJtF.png)](https://i.imgur.com/XV5aJtF.png)
 
