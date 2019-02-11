@@ -12,7 +12,7 @@ From the terminal, run the install script:
 ## How to uninstall the theme
 From the terminal, run this command:
 
-    sudo /usr/share/plymouth/themes/dark-mint/uninstall.sh
+    sudo /usr/share/plymouth/themes/saber-plymouth/uninstall.sh
 
 ## How to preview the theme
 After installing, you can preview the theme without having to reboot. Just run this command from the terminal:
