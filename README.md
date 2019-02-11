@@ -27,7 +27,7 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 
 #### Note: previewing the theme requires *plymouth-x11*. To install the package:
 
-    sudo apt-get install plymouth-x11
+    sudo apt install plymouth-x11
 
 
 ## Credit
@@ -37,3 +37,6 @@ https://github.com/jsayol/dark-mint-plymouth-theme
 
 amirovic
 https://www.deviantart.com/amirovic/art/Saber-Bootscreen-502496484
+
+Background image
+I don't remeber where I got it. But it's all over the Internet.
