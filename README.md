@@ -33,6 +33,7 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 ## Credit
 
 Josep Sayol
-    https://github.com/jsayol/dark-mint-plymouth-theme
+https://github.com/jsayol/dark-mint-plymouth-theme
+
 amirovic
-    https://www.deviantart.com/amirovic/art/Saber-Bootscreen-502496484
+https://www.deviantart.com/amirovic/art/Saber-Bootscreen-502496484
