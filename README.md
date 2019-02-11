@@ -17,11 +17,13 @@ From the terminal, run this command:
 ## How to preview the theme
 After installing, you can preview the theme without having to reboot. Just run this command from the terminal:
 
-    sudo /usr/share/plymouth/themes/dark-mint/preview.sh
+    wget https://raw.githubusercontent.com/ShellingfordX/221BBakerStreet/master/Plymouth/preview.sh
+    chmod +x ./preview.sh
+    sudo ./preview.sh
 
 It runs for 2 seconds by default. You can optionally specify the number of seconds to run the preview:
 
-    sudo /usr/share/plymouth/themes/dark-mint/preview.sh 10
+    sudo ./preview.sh 10
 
 #### Note: previewing the theme requires *plymouth-x11*. To install the package:
 
